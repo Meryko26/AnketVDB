@@ -1,0 +1,20 @@
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\AnketV2.exe.config
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\AnketV2.exe
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\AnketV2.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\EntityFramework.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\EntityFramework.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\obj\Debug\AnketV2.csprojResolveAssemblyReference.cache
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\obj\Debug\AnketV2.Form1.resources
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\obj\Debug\AnketV2.Properties.Resources.resources
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\obj\Debug\AnketV2.csproj.GenerateResource.Cache
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\obj\Debug\AnketV2.exe
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\obj\Debug\AnketV2.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\Entity.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\Entity.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\DAL.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\AnketV2\AnketV2\bin\Debug\DAL.pdb
+C:\Users\nuuklu\Source\Repos\AnketVDB2\AnketV2\bin\Debug\AnketV2.exe.config
+C:\Users\nuuklu\Source\Repos\AnketVDB2\AnketV2\obj\Debug\AnketV2.exe
+C:\Users\nuuklu\Source\Repos\AnketVDB2\AnketV2\obj\Debug\AnketV2.pdb
